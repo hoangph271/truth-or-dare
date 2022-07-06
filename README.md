@@ -1,6 +1,6 @@
 # truth-or-date
 
-I, the humble `Joker`...!
+I, am the humble `Joker`...!
 
 Will guide you through the path of `danger` and `secrets`...!
 
