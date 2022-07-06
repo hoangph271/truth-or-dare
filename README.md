@@ -16,3 +16,6 @@ Then, that one can choose to ask the `Joker`, or one of the two others - a quest
   - `Queen` please explain to `Jack` why whould she be his perfect lover...!
 
 ## `Dare...!`
+  - Show the most embarassing photo on your phone...!
+  - Say something dirty to the person on your left...!
+  - Let the rest of the group DM someone from your Instagram account.
