@@ -14,6 +14,7 @@ Then, that one can choose to ask the `Joker`, or one of the two others - a quest
 ## `Truth...!`
   - `King` please define - *Who's the bigger idiot, in a failed love story...?*
   - `Queen` please explain to `Jack` why whould she be his perfect lover...!
+  - `Jack` - What are your issues...?
 
 ## `Dare...!`
   - Show the most embarassing photo on your phone...!
