@@ -15,6 +15,8 @@ Then, that one can choose to ask the `Joker`, or one of the two others - a quest
   - `King` please define - *Who's the bigger idiot, in a failed love story...?*
   - `Queen` please explain to `Jack` why whould she be his perfect lover...!
   - `Jack` - What are your issues...?
+  - `King`: You're now rich ***af***, what's next...?
+  - `Queen`, do people feel tired being around you...?
 
 ## `Dare...!`
   - Show the most embarassing photo on your phone...!
