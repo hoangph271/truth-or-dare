@@ -2,7 +2,7 @@
 
 I, am the humble `Joker`...!
 
-Will guide you through the path of `danger` and `secrets`...!
+Who will guide you through the path of `danger` and `secrets`...!
 
 I shall grant you some questions beforehand...!  
 For your rocky training, before finally...!  
