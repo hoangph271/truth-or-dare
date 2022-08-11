@@ -1,4 +1,4 @@
-# truth-or-date
+# truth-or-dare
 
 I, am the humble `Joker`...!
 
@@ -17,6 +17,7 @@ Then, that one can choose to ask the `Joker`, or one of the two others - a quest
   - `Jack` - What are your issues...?
   - `King`: You're now rich ***af***, what's next...?
   - `Queen`, do people feel tired being around you...?
+  - `Queen` - What are you looking forward to...?
 
 ## `Dare...!`
   - Show the most embarassing photo on your phone...!
