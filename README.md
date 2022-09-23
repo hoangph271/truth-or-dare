@@ -1,4 +1,4 @@
-# truth-or-dare
+[truth-or-dare](https://sneu-truth-or-dare.netlify.app/)
 
 I, am the humble `Joker`...!
 
